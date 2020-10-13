@@ -28,7 +28,8 @@ GEM
     execjs (1.4.1)
       multi_json (~> 1.0)
     ffi (1.9.10)
-    haml (4.0.7)
+    haml (5.2.0)
+      temple (>= 0.8.0)
       tilt
     highline (1.6.21)
     hike (1.2.3)
@@ -103,6 +104,7 @@ GEM
     sprockets-sass (1.0.3)
       sprockets (~> 2.0)
       tilt (~> 1.1)
+    temple (0.8.2)
     therubyracer (0.12.2)
       libv8 (~> 3.16.14.0)
       ref
